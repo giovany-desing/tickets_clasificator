@@ -97,6 +97,6 @@ class FeatureExtraction:
 
 if __name__ == "__main__":
     feature_extractor_processor = FeatureExtraction()
-    data_path_processed = "/Users/davinci/Desktop/ada_tickets_clasificator/data_project/processed_data"
+    data_path_processed = "/Users/davinci/Desktop/tickets_clasificator/data_project/processed_data"
     data_version = 1
     feature_extractor_processor.run(data_path_processed, data_version)

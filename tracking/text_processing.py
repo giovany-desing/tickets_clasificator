@@ -111,8 +111,8 @@ class TextProcessing:
     def run(self, file_name: str, version: int):
         """Metodo para ejecutar toda la orquestacion del pipeline"""
         name_data_input = f"{file_name}"
-        PATH_DATA_RAW = "/Users/davinci/Desktop/ada_tickets_clasificator/data_project/raw_data"
-        PATH_DATA_PROCESSED = "/Users/davinci/Desktop/ada_tickets_clasificator/data_project/processed_data"
+        PATH_DATA_RAW = "/Users/davinci/Desktop/tickets_clasificator/data_project/raw_data"
+        PATH_DATA_PROCESSED = "/Users/davinci/Desktop/tickets_clasificator/data_project/processed_data"
         # reading JSON data
         data_tickets = self.read_csv(
             path=PATH_DATA_RAW, file_name=f"{name_data_input}.csv"
