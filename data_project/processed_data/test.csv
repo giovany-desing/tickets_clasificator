@@ -1,0 +1,291 @@
+"number","priority","state","close_code","closed_at","close_notes","resolved_at","sys_created_on","calendar_stc","cmdb_ci","business_duration","service_offering","origin_id","caller_id","calendar_duration","description","short_description"
+"INC1170339","Baja","Cerrado","No corresponde a un incidente de TI","05/07/2024 19:31:11","Buenos dias.
+Se revisa el caso y notamos que solo existe una vinculación (0602000140263080) la cual ya contiene todos los documentos totalmente firmados desde el día 30/06/2024.","02/07/2024 13:24:10","02/07/2024 10:50:02","9.248","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","9248","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","9248","Buen día, el cliente Heidy Johana Mendez Ariza identificado con cc. 52845947 esta realizando una vinculación con el proyecto Coralina del sol torre , pero al momento de hacer el envió de los documentos para firmas el cliente manifiesta que no recibir el documento NIC, por favor hacer el reenvió al correo registrado, muchas gracias","Solicitud reenvío documentos"
+"INC1170360","Media","Cerrado","No corresponde a un incidente de TI","05/07/2024 19:34:17","Buenos dias.
+Se hace el cargue de los archivos al active, estos quedaran disponibles el dia de mañana 03/07/2024 en la herramienta de davibox.","02/07/2024 13:17:33","02/07/2024 11:09:14","7.699","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","7699","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","7699","Buen día,
+
+Agradecemos por favor validar con esta vinculación ya que todos los documentos fueron firmados en su momento sin embargo no se encuentra legalizado, ni se encuentra en davibox. 
+Datos del cliente,
+
+Nombre: CAMILO ANDRES GUZMAN ROA
+C.C. 1026563901
+Proyecto, CONJUNTO RESIDENCIAL CHAMONIX 
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error vinculación en estado pendiente de legalizar"
+"INC1170522","Media","Cerrado","No corresponde a un incidente de TI","08/07/2024 19:30:22","Buenos dias.
+Se revisa el caso y se observa que se llenó la información de ley facta y luego se cambio a no y este estaba pidiendo el TIN, se hace la corrección para que no pida este dato, por favor retomar la vinculación y enviar los documentos, re abrir incidente si el problema persiste.","03/07/2024 08:45:27","02/07/2024 14:34:27","65.460","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","65460","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","65460","Buen día,
+
+Agradecemos por favor validar esta  vinculación  ya que cuando van a pedir  los documentos para firmas  no se realiza, se queda cargando y no envía documentos, se verifica el correo registrado y esta correcto. 
+Datos del cliente,
+
+Nombre: ANY JULIETH ORTIZ CABARCAS
+C.C. 1143463591
+Proyecto, PORTO VENTO
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error en etapa de firmas"
+"INC1170947","Baja","Cerrado","No corresponde a un incidente de TI","08/07/2024 19:33:01","Buenas tardes.
+Se hace el reenvío del Encargo al CC. 17628324 por favor indicar buscar por el siguiente asunto:
+Encargo Para Firmar David Vasquez Bermeo - Gloria Esperanza Torres Rodriguez
+
+Se hace el reenvío del NIC al CC. 39528092 por favor indicar buscar por el siguiente asunto:
+Nic Persona Natural Gloria Esperanza Torres Rodriguez
+
+También revisar las bandejas de correos no deseados, spam o promociones.","03/07/2024 10:29:57","03/07/2024 10:12:52","1.025","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","1025","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","1025","Buen día, los clientes DAVID VASQUEZ BERMEO identificad con cc. 17628324 y la cliente GLORIA TORRES identificada con cc. 39528092 están realizando una vinculación con el proyecto GRAIA ETAPA 1 pero manifiestan no recibir algunos documentos para firmas 
+
+ DAVID VASQUEZ BERMEO identificad con cc. 17628324 : DOCUMENTO FALTANTE DE FIRMA  NDOCUMENTO ENCARGO 
+cliente GLORIA TORRES identificada con cc. 39528092 : DOCUMENTO FALTANTE FIRMA DOCUMENTO NIC 
+
+POR FAVOR  HACER REENVIO DE DOCUMENTOS A LOS CORREOS REGISTRADOS, espero pronta respuesta muchas gracias","Error en etapa de firmas"
+"INC1170997","Media","Cerrado","No corresponde a un incidente de TI","22/07/2024 19:33:28","Buenos dias.
+Se realiza sesión con Maria a Lopez y se socializa el motivo por el cual no se puede retomar la vinculación.
+
+la vinculación se creo el dia 2023-03-28 11:29:37.000 se estuvo revisando el documento NIC y la petición para este documento se encuentra caducada como se muestra en la imagen adjunta ya que paso mas de 1 año sin actividad para este documento, lamentablemente este ya no se puede recuperar y muy seguramente quedo en la ultima etapa de firma esta se realizo y no se dio click en enviar y este documento no fue culminado.
+Se sugiere crear la vinculación nuevamente y firmar los documentos.
+Saludos.
+","17/07/2024 09:34:05","03/07/2024 10:59:48","1.204.458","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","1204458","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","1204458","Buen día!
+Agradecemos por favor validar esta vinculación ya que no ha llagado al davibox,  verifique que estuviera todo firmado y efectivamente se encontraba todo bien
+
+Datos del cliente,
+
+Nombre: JOSE DARIO REINA GUZMAN
+C.C. 1013595561
+Proyecto,	BUENAVISTA LIVING 
+Adjunto evidencia 
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error vinculación en estado pendiente de legalizar"
+"INC1171417","Media","Cerrado","No corresponde a un incidente de TI","10/07/2024 19:32:57","Buenos días.
+Se hace la eliminación del usuario para que lo puedan volver a crear.","05/07/2024 10:34:09","04/07/2024 09:20:25","90.824","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","90824","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","90824","buen día!!
+trate de realizar la creación del usuario del asesor, pero al momento que realizar la creación me sale un comentario el cual dice que ""el numero de identificación ya existe""   me comenta también que no ha ingresado a One id con  correo  de otra constructora.
+adjunto evidencia
+
+Datos
+Harold Dario Sanchez Celis
+harold.sanchez@constructorabolivar.com	
+1013666759
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error en creación de usuario"
+"INC1171540","Media","Cerrado","No corresponde a un incidente de TI","09/07/2024 19:32:22","Buenas tardes.
+Se cargan los documentos al active, estos quedarán disponibles el día de mañana 05/07/2024 en la herramienta de davibox.","04/07/2024 14:52:05","04/07/2024 11:24:37","12.448","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","12448","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","CLAUDIA YANETH ESPITIA GAONA","12448","la cliente realizó el proceso en el mes de mayo 1072703500 JORGE ANDRES LUENGAS VALLEJO referencia 0602000140910169  a la fecha no se ha legalizado  dado que no han llegado los soportes PDF Y archivos CSV  adjuntamos soportes donde se evidencia  el finalizado de firmas contacto claudia  espitia CELULAR 3185875139","Error en cargue de documentos Davibox"
+"INC1171644","Baja","Cerrado","No corresponde a un incidente de TI","09/07/2024 19:33:30","Buenas tardes.
+Se cargan los documentos al active, estos estarán disponibles el día de mañana 05/07/2024 en la herramienta davibox.","04/07/2024 14:46:25","04/07/2024 14:33:38","767","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","767","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","MARIA ANGELICA LOPEZ PINEROS","767","2. Validaciones operativas y descartes realizados: se adjuntan documentos firmados
+3. ¿Cómo este problema afecta las operaciones de su área?: Afecta la vinculación del cliente, no puede realizar sus pagos. 
+4. Observaciones adicionales:
+
+Cliente afectado, 
+CAMILA ALEJANDRA HURTADO CAMERO
+c.c. 1193285532
+proyecto, View Point etapa 1
+
+5. Adjuntar la captura del error mostrado.","Error en cargue de documentos Davibox"
+"INC1171690","Media","Cerrado","No corresponde a un incidente de TI","10/07/2024 19:31:33","Buenos días.
+Se hace el reenvío del NIC al correo carche_19@hotmail.com, por favor indicar buscar por el siguiente asunto:
+Nic Persona Natural Carlos Gilberto Rueda Serrato
+
+También revisar las bandejas de correos no deseados, spam o promociones.","05/07/2024 09:01:25","04/07/2024 15:26:37","63.288","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","63288","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","63288","Buen día!
+Agradecemos por favor validar esta vinculación ya que no realizo en su momento la firma del Nic y requieren firmarlo para realizar la legalización , son 2 compradores solo el falta por firmar el nic. 
+
+Datos del cliente,
+
+Nombre: Carlos Gilberto rueda serrato
+C.C. 80212834
+Proyecto, Bosque madero
+la vinculación se realizo 2024/03/21 
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Solicitud reenvío documentos"
+"INC1171794","Baja","Cerrado","No corresponde a un incidente de TI","10/07/2024 19:30:00","Buenos días.
+Se hace el cambio del tipo de vinculación de Aleatorio a Previnculacion, por favor revisar.
+
+Re abrir incidente si el problema persiste.","05/07/2024 09:08:11","04/07/2024 17:09:21","57.530","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","57530","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","PAOLA KATHERINE PERDIGON HASTAMORIR","57530","Agradezco su ayuda por favor con el cambio de modalidad de vinculacion de Aleatorio  a previnulación 
+
+Debe quedar Pre-vinculacion  en la etapa 1
+
+constructora  ARQUITECTURA Y CONCRETO  
+Proyecto :  2646 VERANOVAPARK","Solicitud de cambio de modadalidad de vinculación (Aleatorio a previnculación)"
+"INC1171988","Baja","Cerrado","No corresponde a un incidente de TI","10/07/2024 19:33:07","Buenos días.
+Se hace el cargue de los documentos al active, estos estarán disponibles el día de mañana 06/07/2024 en la herramienta de davibox.","05/07/2024 10:44:49","05/07/2024 10:01:01","2.628","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","2628","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","2628","Buenos días,
+
+Agradecemos por favor realizar la verificación del cierre y reporte a davibox archivo cvs de la vinculación relacionada a continuación dado que el cliente aun no se encuentre legalizado,
+
+Datos del cliente,
+
+Nombre:  SANDRA YAMILE CARDON AAREVALO
+C.C. 1010244253
+Proyecto, LA REQUILINA
+
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error en cargue de documentos Davibox"
+"INC1171990","Baja","Cerrado","No corresponde a un incidente de TI","10/07/2024 19:32:21","Buenos días.
+Se hace el cargue de los documentos al active, estos estarán disponibles el día de mañana 06/07/2024 en la herramienta de davibox.","05/07/2024 10:48:43","05/07/2024 10:02:47","2.756","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","2756","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","2756","Buenos días,
+
+Agradecemos por favor realizar la verificación del cierre y reporte a davibox archivo cvs de la vinculación relacionada a continuación dado que el cliente aun no se encuentre legalizado,
+
+Datos del cliente,
+
+Nombre: HECTOR ANIBAL MELO
+C.C. 1030527287
+Proyecto, ROSA VIOLETA
+
+
+Muchas gracias, quedamos atentos al soporte que se requiera","Error en cargue de documentos Davibox"
+"INC1171992","Baja","Cerrado","No corresponde a un incidente de TI","10/07/2024 19:32:39","Buenas tardes.
+Los documentos quedarán cargados el día de mañana 06/07/2024 en la herramienta davibox.","05/07/2024 14:53:44","05/07/2024 10:04:54","17.330","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","17330","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","17330","Buenos días,
+
+Agradecemos por favor realizar la verificación del cierre y reporte a davibox archivo cvs de la vinculación relacionada a continuación dado que el cliente aun no se encuentre legalizado,
+
+Datos del cliente,
+
+Nombre: GEORGE EDWARD MENDOZA
+C.C. 1019070248
+Proyecto, MADEIRA PARK
+
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error en cargue de documentos Davibox"
+"INC1172034","Media","Cerrado","No corresponde a un incidente de TI","10/07/2024 19:31:39","Buenos días.
+Se revisa el caso y notamos que el NIC fue firmado el día de hoy, por ende estos documentos estarán disponibles el día de mañana 06/07/2024 en la herramienta de davibox.","05/07/2024 10:57:12","05/07/2024 10:38:50","1.102","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","1102","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","1102","Buen día!
+Agradecemos por favor validar esta vinculación ya  realizo en su momento las firmas sin embargo no ha llegado a davibox  para realizar la legalización 
+Datos del cliente,
+
+Nombre: SANDRA YAMILE CARDONA AREVALO
+C.C. 1010244253
+Proyecto, LA REQUILINA
+la vinculación se realizo  2024/06/09 
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error en cargue de documentos Davibox"
+"INC1172189","Media","Cerrado","No corresponde a un incidente de TI","10/07/2024 19:33:19","Buenas tardes.
+Los documentos se suben al active, estos quedarán cargados el día de mañana 06/07/2024 en la herramienta davibox.","05/07/2024 14:58:42","05/07/2024 14:15:54","2.568","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","2568","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","2568","Agradecemos por favor realizar la verificación del cierre y reporte a davibox archivo cvs de la vinculación relacionada a continuación dado que el cliente aun no se encuentre legalizado,
+
+Datos del cliente,
+
+Nombre: ELIECER QUISADO LUGO
+C.C. 19427520
+Proyecto, VENTURA RESIDENCIAL
+
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error en cargue de documentos Davibox"
+"INC1172268","Media","Cerrado","Sin respuesta del usuario","12/07/2024 09:52:51","No se obtuvo respuesta del Usuario. 
+Cerrado por el sistema","12/07/2024 09:52:51","05/07/2024 15:53:57","583.134","","583134","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","583134","Buenos días,
+
+Agradecemos por favor realizar la verificación del cierre y reporte a Davibox archivo cvs de la vinculaciones relacionadas en el siguiente archivo adjunto.
+
+Fecha y hora de la afectación: Casos del mes de febrero, marzo, abril, mayo y junio
+Nombre de la Constructora. Varias constructoras
+El caso es masivo o puntual: 26 clientes de acuerdo a Data del archivo
+Estado del proceso: Enviado a firmas, firmado, información financiera ","Error en cargue de documentos Davibox"
+"INC1172334","Media","Cerrado","No corresponde a un incidente de TI","11/07/2024 19:31:24","Buenos dias.
+Notamos que los documentos ya se encuentran firmados por todas las partes, no es necesario realizar ningún proceso.
+
+Saludos.","08/07/2024 09:52:16","05/07/2024 17:14:31","232.665","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","232665","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","232665","Buen día,
+
+Agradecemos por favor validar esta vinculación ya que cuando van a pedir los documentos para firmas no se realiza, se queda cargando y no envía documentos, se verifica el correo registrado y esta correcto.
+Datos del cliente,
+
+Nombre: WILBER ANDRES CORREA AREVALO
+C.C. 1073507993
+Proyecto, YERBABUENA
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error en etapa de firmas"
+"INC1173270","Baja","Cerrado","No corresponde a un incidente de TI","16/07/2024 19:31:47","Buenas tardes.
+Se hace la eliminación del usuario.","11/07/2024 16:05:08","08/07/2024 12:00:39","273.869","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","273869","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","273869","Buen dia, la asesora ADRIANA GIRON ZABALA identificada con cc. 65734284 necesita la aliminacion de su usuario de ONE ID,  por favor hacer la aliminacion del usuario muchas gracias","Solicitud eliminación de usuario"
+"INC1173284","Baja","Cerrado","No corresponde a un incidente de TI","16/07/2024 19:30:33","Buenas tardes.
+Se suben los archivos al active, por ende estos documentos estarán disponibles el día de mañana 12/07/2024 en la herramienta de davibox.","11/07/2024 16:23:00","08/07/2024 12:17:10","273.950","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","273950","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","273950","Buenos días,
+
+Agradecemos por favor realizar la verificación del cierre y reporte a davibox archivo cvs de la vinculación relacionada a continuación dado que el cliente aun no se encuentre legalizado,
+
+Datos del cliente,
+
+Nombre: MONICA DANIELA LOPEZ
+C.C. 1010191375
+Proyecto,  NOVUM RICAURTE
+
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Error en cargue de documentos Davibox"
+"INC1173391","Media","Cerrado","No corresponde a un incidente de TI","16/07/2024 19:32:33","Buenas tardes.
+Se realiza reenvio de documento nic del comprador jp038@hotmail.com, adicionalmente notamos que ambos compradores les hace falta la firma del encargo entonces también se realizo reenvio.
+Reabrir incidente en caso de novedad.","11/07/2024 12:37:58","08/07/2024 14:36:39","252.080","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","252080","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","252080","Buen día,
+
+Solicitamos de su colaboración con el reenvió de documentos para firmas, 
+
+Datos de vinculación del cliente,
+
+Nombres: 
+JENIFFER LILIANA CHINCHILLA   VALLEJO      falta encargo fiduciario 
+JULIO JAVIER PEREZ  MUNOZ          falta Nic y encargo fiduciario 
+Numero producto 0602000140585490
+proyecto: MIRALTA
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Solicitud reenvío documentos"
+"INC1173401","Media","Cerrado","No corresponde a un incidente de TI","16/07/2024 19:30:27","Buenas tardes.
+Realizamos reenvio de documento nic ya que es el que esta pendiente por firma al correo carmen.urbina@constructorabolivar.com por favor indicarle buscar en bandeja de entrada.
+Reabrir incidente en caso de novedad.","11/07/2024 12:41:06","08/07/2024 14:54:02","251.224","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","251224","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","251224","Buenas tardes,
+
+Solicitamos de su colaboración con el reenvió de NIC para la asesora ya el  cliente firmo todo sin embargo no le llego el documento nic  a la asesora 
+
+adjunto link de reporte detallado 
+https://docs.google.com/spreadsheets/d/1KgTNS1X114jlYog1XnTMv6wKFDhi_xoA/edit?gid=2100133765#gid=2100133765 
+
+Datos de vinculación del cliente,
+
+Nombre: CARLOS ADOLFO ESCOBAR ROJAS
+C.C 79281658
+Proyecto CASTELLANA 51
+Numero de producto 0602000140174360
+Correo asesora carmen.urbina@constructorabolivar.com	
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Solicitud reenvío documentos"
+"INC1173468","Baja","Cerrado","No corresponde a un incidente de TI","16/07/2024 19:33:33","Buenas tardes.
+Se hace la eliminación de los 2 usuarios.","11/07/2024 16:08:33","08/07/2024 15:56:09","259.944","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","259944","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","259944","Buen día, por solicito la eliminación de dos usuarios de ONE ID  ya que tiene usuario con una constructora diferente a la cual van a trabajar......
+
+KEVIN FELIPE BARRIOS GODOY
+cc. 1022430608
+
+JERSON HERNANDO MUÑOZ 
+cc.1013610808
+
+por favor hacer la eliminación de los dos usuarios","Solicitud eliminación de usuario"
+"INC1173586","Baja","Cerrado","No corresponde a un incidente de TI","16/07/2024 19:30:36","Buenas tardes.
+Realizamos cargue nuevamente de documentos, por favor validar el dia de mañana 12 de julio ya estarán disponibles.
+Reabrir incidente en caso de novedad.","11/07/2024 12:51:23","08/07/2024 18:49:13","237.730","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","237730","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","KEYLA SAMANTHA VILLA JIMENEZ","237730","1. Número de Contacto: 3186898917
+2. Validaciones operativas y descartes realizados: Se realiza validacion en SAF y el encargo sigue sin legalizar
+3. ¿Cómo este problema afecta las operaciones de su área?: Afecta la legalizacion del encargo para la sala de ventas
+4. Observaciones adicionales: Buen dia, agradezco su colaboracion con el cargue de los documentos a davibox del cliente BRAYAN DAVID RINCON SANCHEZ  CC 1007156307 - Numero de encargo: 0602000140765910, del proyecto SIENA  2385 de la constructora PRODESA ya que tanto el encargo fiduciario como el NIC estan firmados desde el  28 de abril. Adjunto reporte detallado y correo soprte de firma completa
+5. Adjuntar la captura del error mostrado.","Error en cargue de documentos Davibox"
+"INC1173869","Baja","Cerrado","No corresponde a un incidente de TI","16/07/2024 19:30:18","Buenas tardes.
+Notamos que esta solo pendiente por firma el documento nic, realizamos reenvio al asesor herrera.ev@prodesa.com por favor indicarle buscar en bandeja de entrada.
+Reabrir incidente en caso de novedad.","11/07/2024 12:53:49","09/07/2024 11:15:08","178.721","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","178721","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","178721","Buen día, el cliente FELIPE PINEDA RUIZ cc. 1233499047 realizo una vinculación en marzo con el proyecto PRASEO, pero para poder ser legalizado falto la firma del NIC del asesor, pero el asesor que le realizo la vinculación ya no trabaja en la sala de ventas, por favor hacer el reenvió del documento NIC FALTANTE DE FIRMA DE ASESOR AL SIGUIENTE CORREO: herrera.ev@prodesa.com
+
+Muchas gracias, espero pronta respuesta","Solicitud reenvío documentos"
+"INC1173924","Baja","Cerrado","Sin respuesta del usuario","16/07/2024 13:06:17","No se obtuvo respuesta del Usuario. 
+Cerrado por el sistema","16/07/2024 13:06:17","09/07/2024 12:04:35","608.502","","608502","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","608502","Buen dia, el cliente WILLIAM LEONARDO CRUZ identificado con cc. 79642467 le realizaron una vinculación en marzo con el proyecto PRASEO pero nunca se culmino las firmas, por favor hacer la reactivación de la vinculación, y reenvió de documentos NIC Y ENCARGO, faltantes de firmas
+
+muchas gracias, espero pronta respuesta","Solicitud reenvío documentos"
+"INC1173941","Baja","Cerrado","No corresponde a un incidente de TI","17/07/2024 19:30:28","Buenos días.
+Se hace el cargue de los documentos al active, estos estarán disponibles el día de mañana 13/07/2024 en la herramienta davibox.","12/07/2024 10:38:46","09/07/2024 12:31:54","252.412","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","252412","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","MARIA ANGELICA LOPEZ PINEROS","252412","2. Validaciones operativas y descartes realizados: revisamos el cierre de la firma de los documentos.
+3. ¿Cómo este problema afecta las operaciones de su área?: Afecta la vinculación y legalización de un cliente.
+4. Observaciones adicionales: Agradecemos por favor nos reporten la vinculación del cliente por archivo csv al davibox, dado que cuenta con la firma completa de los documentos y no se reporto en el davibox.
+Datos del Cliente: 
+
+Nombre: BRITHNY ACOSTA
+C.c. 1001284743
+Proyecto, PRASEO ET01
+
+5. Adjuntar la captura del error mostrado., adjuntamos documentos soporte (firmados)","Error en cargue de documentos Davibox"
+"INC1174073","Media","Cerrado","No corresponde a un incidente de TI","16/07/2024 19:30:23","Buenas tardes.
+Se hace el reenvío de los documentos, por favor indicar buscar por los siguientes asuntos:
+Nic Persona Natural Luis Carlos Villa
+Encargo Para Firmar Luis Carlos Villa
+
+También revisar las bandejas de correos no deseados, spam y promociones.","11/07/2024 15:51:46","09/07/2024 15:36:04","173.742","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","173742","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Briyit Ximena Rubio Bohorquez","173742","Buen día!
+Agradecemos por favor el reenvió de los documentos para firmas muchas gracias 
+
+Datos del cliente,
+
+Nombre: LUIS CARLOS 	VILLA
+C.C. 1084550
+Proyecto, coralina suites
+vinculación 2024/06/13 15:21:08
+
+Muchas gracias, quedamos atentos al soporte que se requiera.","Solicitud reenvío documentos"
+"INC1174159","Baja","Cerrado","No corresponde a un incidente de TI","16/07/2024 19:33:45","Buenas tardes.
+Se revisa el caso y se observa que ambos documentos ya fueron firmados por todas las partes el día 30/12/2023.","11/07/2024 15:56:38","09/07/2024 17:05:42","168.656","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","168656","VINCULACION PREVENTAS FIDUCIARIA (ONE ID)","","Carlos Felipe Alonso Gordillo","168656","Buen día, el cliente DIONY CAMCHIMBO SANCHEZ cc. 48618903 realizo una vinculación en DICIEMBRE con el proyecto TIERRALINDA DEL VALLE ETAPA 2, pero para poder ser legalizado falto la firma del NIC Y ENCARGO del asesor, pero el asesor que le realizo la vinculación ya no trabaja en la sala de ventas, por favor hacer el reenvió del documento NIC Y ENCARGO  FALTANTE DE FIRMA DE ASESOR AL SIGUIENTE CORREO: juand.varona@constructoracolpatria.com
+
+Muchas gracias, espero pronta respuesta","Solicitud reenvío documentos"

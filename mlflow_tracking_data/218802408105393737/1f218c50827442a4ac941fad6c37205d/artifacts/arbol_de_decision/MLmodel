@@ -1,0 +1,31 @@
+artifact_path: arbol_de_decision
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 86922
+model_uuid: 7892cfb19ce24c7cb01a5c95a4edb4ea
+prompts: null
+run_id: 1f218c50827442a4ac941fad6c37205d
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 4895]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int8", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-20 21:26:34.962957'

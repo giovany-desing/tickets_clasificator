@@ -1,0 +1,15 @@
+artifact_uri: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/34155288274a418390a48526ea2dfb46/artifacts
+end_time: 1747775595954
+entry_point_name: ''
+experiment_id: '218802408105393737'
+lifecycle_stage: active
+run_id: 34155288274a418390a48526ea2dfb46
+run_name: Random Forest
+run_uuid: 34155288274a418390a48526ea2dfb46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747775495309
+status: 3
+tags: []
+user_id: davinci

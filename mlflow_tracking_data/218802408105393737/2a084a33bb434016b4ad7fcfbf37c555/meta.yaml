@@ -1,0 +1,15 @@
+artifact_uri: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/2a084a33bb434016b4ad7fcfbf37c555/artifacts
+end_time: 1747778055207
+entry_point_name: ''
+experiment_id: '218802408105393737'
+lifecycle_stage: active
+run_id: 2a084a33bb434016b4ad7fcfbf37c555
+run_name: KNN (K-Nearest Neighbors)
+run_uuid: 2a084a33bb434016b4ad7fcfbf37c555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747778050160
+status: 3
+tags: []
+user_id: davinci

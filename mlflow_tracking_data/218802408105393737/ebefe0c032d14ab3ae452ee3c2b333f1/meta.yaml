@@ -1,0 +1,15 @@
+artifact_uri: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/ebefe0c032d14ab3ae452ee3c2b333f1/artifacts
+end_time: 1747776152980
+entry_point_name: ''
+experiment_id: '218802408105393737'
+lifecycle_stage: active
+run_id: ebefe0c032d14ab3ae452ee3c2b333f1
+run_name: Corrida_Baseline_General
+run_uuid: ebefe0c032d14ab3ae452ee3c2b333f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747776127813
+status: 3
+tags: []
+user_id: davinci

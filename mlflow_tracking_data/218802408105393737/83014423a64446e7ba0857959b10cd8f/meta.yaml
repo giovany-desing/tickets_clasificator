@@ -1,0 +1,15 @@
+artifact_uri: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/83014423a64446e7ba0857959b10cd8f/artifacts
+end_time: 1747776405436
+entry_point_name: ''
+experiment_id: '218802408105393737'
+lifecycle_stage: active
+run_id: 83014423a64446e7ba0857959b10cd8f
+run_name: Gradient Boosting
+run_uuid: 83014423a64446e7ba0857959b10cd8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747776400693
+status: 3
+tags: []
+user_id: davinci

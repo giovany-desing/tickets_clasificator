@@ -1,0 +1,15 @@
+artifact_uri: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/1f218c50827442a4ac941fad6c37205d/artifacts
+end_time: 1747776397736
+entry_point_name: ''
+experiment_id: '218802408105393737'
+lifecycle_stage: active
+run_id: 1f218c50827442a4ac941fad6c37205d
+run_name: Arbol de Decision
+run_uuid: 1f218c50827442a4ac941fad6c37205d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747776394889
+status: 3
+tags: []
+user_id: davinci

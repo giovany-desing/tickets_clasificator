@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747780684587
+current_stage: None
+description: ''
+last_updated_timestamp: 1747780684587
+name: tickets_classifiers
+run_id: 4deceb9849af48749ec68b873a05b7d6
+run_link: ''
+source: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/4deceb9849af48749ec68b873a05b7d6/artifacts/regresion_logistica
+status: READY
+status_message: null
+storage_location: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/4deceb9849af48749ec68b873a05b7d6/artifacts/regresion_logistica
+user_id: null
+version: 1

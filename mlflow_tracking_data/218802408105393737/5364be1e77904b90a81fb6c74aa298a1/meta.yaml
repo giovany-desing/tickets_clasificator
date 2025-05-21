@@ -1,0 +1,15 @@
+artifact_uri: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/5364be1e77904b90a81fb6c74aa298a1/artifacts
+end_time: 1747778069748
+entry_point_name: ''
+experiment_id: '218802408105393737'
+lifecycle_stage: active
+run_id: 5364be1e77904b90a81fb6c74aa298a1
+run_name: Naive Bayes Multinomial
+run_uuid: 5364be1e77904b90a81fb6c74aa298a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747778066224
+status: 3
+tags: []
+user_id: davinci

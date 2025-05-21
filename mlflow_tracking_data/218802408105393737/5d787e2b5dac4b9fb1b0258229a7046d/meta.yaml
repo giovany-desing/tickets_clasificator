@@ -1,0 +1,15 @@
+artifact_uri: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/5d787e2b5dac4b9fb1b0258229a7046d/artifacts
+end_time: 1747778050158
+entry_point_name: ''
+experiment_id: '218802408105393737'
+lifecycle_stage: active
+run_id: 5d787e2b5dac4b9fb1b0258229a7046d
+run_name: SVM (Kernel Lineal)
+run_uuid: 5d787e2b5dac4b9fb1b0258229a7046d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747778046656
+status: 3
+tags: []
+user_id: davinci

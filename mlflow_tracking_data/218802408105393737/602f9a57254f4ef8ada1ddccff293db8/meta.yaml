@@ -1,0 +1,15 @@
+artifact_uri: /Users/davinci/Desktop/tickets_clasificator/mlflow_tracking_data/218802408105393737/602f9a57254f4ef8ada1ddccff293db8/artifacts
+end_time: 1747776133399
+entry_point_name: ''
+experiment_id: '218802408105393737'
+lifecycle_stage: active
+run_id: 602f9a57254f4ef8ada1ddccff293db8
+run_name: Regresion Logistica
+run_uuid: 602f9a57254f4ef8ada1ddccff293db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747776131017
+status: 3
+tags: []
+user_id: davinci
